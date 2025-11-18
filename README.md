@@ -145,11 +145,11 @@
 
 本项目参考了以下优秀项目：
 
-- **VTM (Verdent Token Manager)**: [zhaochengcube/augment-token-mng](https://github.com/zhaochengcube/augment-token-mng)
-  - 一个基于 Tauri 构建的跨平台桌面应用程序，用于生成和管理 Augment Code 访问令牌
+- **ATM (Augment Token Manager)**: [zhaochengcube/augment-token-mng](https://github.com/zhaochengcube/augment-token-mng)
+  - 参考此项目的布局以及部分功能
 
 - **Verdent Account Manager**: [chaogei/verdent-account-manager](https://github.com/chaogei/verdent-account-manager)
-  - Verdent 账户管理工具，提供 VSIX 插件支持
+  - 参考此项目提供的VSIX
 
 ---
 
